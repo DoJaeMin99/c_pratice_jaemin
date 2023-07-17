@@ -1,0 +1,10 @@
+D:\C#\jaemin\obj\Debug\jaemin.csproj.AssemblyReference.cache
+D:\C#\jaemin\obj\Debug\jaemin.Form1.resources
+D:\C#\jaemin\obj\Debug\jaemin.Properties.Resources.resources
+D:\C#\jaemin\obj\Debug\jaemin.csproj.GenerateResource.cache
+D:\C#\jaemin\obj\Debug\jaemin.csproj.CoreCompileInputs.cache
+D:\C#\jaemin\bin\Debug\jaemin.exe.config
+D:\C#\jaemin\bin\Debug\jaemin.exe
+D:\C#\jaemin\bin\Debug\jaemin.pdb
+D:\C#\jaemin\obj\Debug\jaemin.exe
+D:\C#\jaemin\obj\Debug\jaemin.pdb

@@ -1,0 +1,13 @@
+D:\C#\MoneyBook\bin\Debug\MoneyBook.exe.config
+D:\C#\MoneyBook\bin\Debug\MoneyBook.exe
+D:\C#\MoneyBook\bin\Debug\MoneyBook.pdb
+D:\C#\MoneyBook\obj\Debug\MoneyBook.csproj.AssemblyReference.cache
+D:\C#\MoneyBook\obj\Debug\MoneyBook.Properties.Resources.resources
+D:\C#\MoneyBook\obj\Debug\MoneyBook.csproj.GenerateResource.cache
+D:\C#\MoneyBook\obj\Debug\MoneyBook.csproj.CoreCompileInputs.cache
+D:\C#\MoneyBook\obj\Debug\MoneyBook.exe
+D:\C#\MoneyBook\obj\Debug\MoneyBook.pdb
+D:\C#\MoneyBook\obj\Debug\MoneyBook.fMain.resources
+D:\C#\MoneyBook\obj\Debug\MoneyBook.fLogin.resources
+D:\C#\MoneyBook\obj\Debug\MoneyBook.fIN.resources
+D:\C#\MoneyBook\obj\Debug\MoneyBook.fOut.resources

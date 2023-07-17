@@ -1,0 +1,11 @@
+D:\C#\practice\bin\Debug\practice.exe.config
+D:\C#\practice\bin\Debug\practice.exe
+D:\C#\practice\bin\Debug\practice.pdb
+D:\C#\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+D:\C#\practice\obj\Debug\practice.fLogin.resources
+D:\C#\practice\obj\Debug\practice.Practice.resources
+D:\C#\practice\obj\Debug\practice.Properties.Resources.resources
+D:\C#\practice\obj\Debug\practice.csproj.GenerateResource.cache
+D:\C#\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\C#\practice\obj\Debug\practice.exe
+D:\C#\practice\obj\Debug\practice.pdb

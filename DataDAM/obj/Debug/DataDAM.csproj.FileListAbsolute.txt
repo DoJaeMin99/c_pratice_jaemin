@@ -1,0 +1,10 @@
+D:\C#\DataDAM\bin\Debug\DataDAM.exe.config
+D:\C#\DataDAM\bin\Debug\DataDAM.exe
+D:\C#\DataDAM\bin\Debug\DataDAM.pdb
+D:\C#\DataDAM\obj\Debug\DataDAM.csproj.AssemblyReference.cache
+D:\C#\DataDAM\obj\Debug\DataDAM.allForm.resources
+D:\C#\DataDAM\obj\Debug\DataDAM.Properties.Resources.resources
+D:\C#\DataDAM\obj\Debug\DataDAM.csproj.GenerateResource.cache
+D:\C#\DataDAM\obj\Debug\DataDAM.csproj.CoreCompileInputs.cache
+D:\C#\DataDAM\obj\Debug\DataDAM.exe
+D:\C#\DataDAM\obj\Debug\DataDAM.pdb
